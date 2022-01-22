@@ -113,6 +113,10 @@ ul {
 }
 
 @media (max-width: 768px) {
+  .navbar a {
+    font-size: 12px;
+  }
+  
   .header .container {
     flex-direction: column;
     padding-top: 20px;
